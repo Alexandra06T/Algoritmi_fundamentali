@@ -6,6 +6,10 @@
 using namespace std;
 
 /*
+ *  https://cses.fi/problemset/task/1683
+ */
+
+/*
  * Algoritmul Kosaraju
  * Componenta conexa a unui varf este data de toate varfurile accesibile din el si varfurile din care el este accesibil.
 */
